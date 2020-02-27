@@ -1,0 +1,1 @@
+from module.versatile import guided_resnet_siamese
